@@ -1,6 +1,7 @@
 //0 = Ternary (not done, in progress, finished)
 //1 = done/max
-
+console.log('VERSION: 1');
+console.log('FIXED NUMBERING');
 //0 = Hard-Coded Estimate
 //1 = done/max
 let index = 1;
@@ -525,6 +526,7 @@ for (key in progress)
                 `;
         }
     }
+    index++;
 }
 
 
