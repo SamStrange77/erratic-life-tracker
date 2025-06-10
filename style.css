@@ -1,0 +1,72 @@
+body
+{
+    padding: 1rem;
+    color: #ccc;
+    background-color: rgb(18, 183, 183);
+    font-family: monospace;
+    text-align: center;
+    margin: 1rem;
+    font-size: xx-large;
+}
+.centering-box
+{
+    text-align: center;
+}
+.section
+{
+    text-align: left;
+    color: black;
+    background-color: rgb(109, 104, 104);
+    border-style: solid;
+    border-width: 0.1rem;
+    border-radius: 1.5rem;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.progress-bar
+{
+    width: 90%;
+    height: 2rem;
+    border-radius: 1.5rem;
+    background-color: rgb(161, 161, 161);
+    margin: 1rem;
+    padding: 0.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items:start;
+}
+.completed-progress
+{
+    text-align: right;
+    color: black;
+    background-color: green;
+    height: 2rem;
+    width: 100%;
+    border-radius:1.5rem;
+    padding-right: 1rem;
+    box-sizing: border-box;
+}
+button
+{
+    border-color: #ccc;
+    border-radius: 1.1rem;
+    background-color: cadetblue;
+    padding: 1rem;
+    font-size: large;
+    font-family: inherit;
+}
+.list
+{
+    max-width: 100%;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+#yap
+{
+    display: none;
+}
