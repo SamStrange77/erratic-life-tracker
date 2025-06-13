@@ -1,7 +1,7 @@
 //0 = Ternary (not done, in progress, finished)
 //1 = done/max
-console.log('VERSION: 1');
-console.log('FIXED NUMBERING');
+console.log('VERSION: 2');
+console.log('DROP LOOT ON FINAL DEATH: 100%');
 //0 = Hard-Coded Estimate
 //1 = done/max
 let index = 1;
@@ -39,7 +39,7 @@ let progress =
             {
                 "Name": "Drop Loot On Final Death",
                 "Type": 0,
-                "Progress": 0
+                "Progress": 100
             },
             {
                 "Name": "ID System",
