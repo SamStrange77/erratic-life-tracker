@@ -1,7 +1,7 @@
 //0 = Ternary (not done, in progress, finished)
 //1 = done/max
-console.log('VERSION: 2');
-console.log('DROP LOOT ON FINAL DEATH: 100%');
+console.log('VERSION: 3');
+console.log('Personal Event 11: 90%, added basic systems to personal & global.');
 //0 = Hard-Coded Estimate
 //1 = done/max
 let index = 1;
@@ -63,6 +63,11 @@ let progress =
         "List":
         [
             {
+                "Name": "Basic Systems (Assigning, Rolling, Preventing Dupes, etc.)",
+                "Type": 0,
+                "Progress": 95
+            },
+            {
                 "Name": "Wildcard One",
                 "Type": 0,
                 "Progress": 100
@@ -115,7 +120,7 @@ let progress =
             {
                 "Name": "Wildcard Eleven",
                 "Type": 0,
-                "Progress": 0
+                "Progress": 90
             },
             {
                 "Name": "Wildcard Twelve",
@@ -253,6 +258,11 @@ let progress =
         "Weight": 40,
         "List":
         [
+            {
+                "Name": "Basic Systems (Assigning, Rolling, Preventing Dupes, etc.)",
+                "Type": 0,
+                "Progress": 95
+            },
             {
                 "Name": "Wildcard One",
                 "Type": 0,
