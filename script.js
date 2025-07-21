@@ -1,7 +1,7 @@
 //0 = Ternary (not done, in progress, finished)
 //1 = done/max
-console.log('VERSION: 6');
-console.log('Personal Event 7: 40%, Global Event 10: 100%');
+console.log('VERSION: 7');
+console.log('Global Event 9: 50%');
 //0 = Hard-Coded Estimate
 //1 = done/max
 let index = 1;
