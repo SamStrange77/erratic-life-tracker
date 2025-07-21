@@ -306,7 +306,7 @@ let progress =
             {
                 "Name": "Wildcard Nine",
                 "Type": 0,
-                "Progress": 40
+                "Progress": 50
             },
             {
                 "Name": "Wildcard Ten",
