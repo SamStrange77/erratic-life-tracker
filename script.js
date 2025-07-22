@@ -1,7 +1,7 @@
 //0 = Ternary (not done, in progress, finished)
 //1 = done/max
-console.log('VERSION: 7');
-console.log('Global Event 11: 75%, Misc 45%, Global Overall 95');
+console.log('VERSION: 8');
+console.log('Global Event 11: 90%');
 //0 = Hard-Coded Estimate
 //1 = done/max
 let index = 1;
@@ -316,7 +316,7 @@ let progress =
             {
                 "Name": "Wildcard Eleven",
                 "Type": 0,
-                "Progress": 75
+                "Progress": 90
             },
             {
                 "Name": "Wildcard Twelve",
