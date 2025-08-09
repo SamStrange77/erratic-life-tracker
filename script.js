@@ -455,7 +455,7 @@ let progress =
             {
                 "Name": "Miscellaneous",
                 "Type": 0,
-                "Progress": 45
+                "Progress": 50
             }
         ]
     }
@@ -660,3 +660,4 @@ function hideYap ()
     )
     button.innerHTML = `Expand Yap!`;
 }
+
