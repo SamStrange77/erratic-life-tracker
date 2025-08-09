@@ -316,7 +316,7 @@ let progress =
             {
                 "Name": "Wildcard Eleven",
                 "Type": 0,
-                "Progress": 90
+                "Progress": 97
             },
             {
                 "Name": "Wildcard Twelve",
@@ -660,4 +660,5 @@ function hideYap ()
     )
     button.innerHTML = `Expand Yap!`;
 }
+
 
