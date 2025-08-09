@@ -1,7 +1,7 @@
 //0 = Ternary (not done, in progress, finished)
 //1 = done/max
 console.log('VERSION: 8');
-console.log('Global Event 11: 90%');
+console.log('Global Event 11: 100%');
 //0 = Hard-Coded Estimate
 //1 = done/max
 let index = 1;
@@ -316,7 +316,7 @@ let progress =
             {
                 "Name": "Wildcard Eleven",
                 "Type": 0,
-                "Progress": 97
+                "Progress": 100
             },
             {
                 "Name": "Wildcard Twelve",
@@ -660,5 +660,6 @@ function hideYap ()
     )
     button.innerHTML = `Expand Yap!`;
 }
+
 
 
